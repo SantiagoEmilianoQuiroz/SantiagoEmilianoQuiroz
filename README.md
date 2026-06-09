@@ -33,9 +33,9 @@
 <h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,javascript,typescript,react,next,mui,tailwind,reactnative" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,javascript,typescript,react,next,mui,tailwind,cpp" /><br>
     <img src="https://skillicons.dev/icons?i=docker,nodejs,nestjs,express,firebase,mongodb,mysql,aws,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,cpp,godot,unreal,blender" /><br>
+    <img src="https://skillicons.dev/icons?i=,godot,unreal" /><br>
 </div>
 
 <br/>
