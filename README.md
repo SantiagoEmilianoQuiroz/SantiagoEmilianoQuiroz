@@ -27,8 +27,6 @@
   <a href="https://github.com/SantiagoEmilianoQuiroz" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
 </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 <br/>
